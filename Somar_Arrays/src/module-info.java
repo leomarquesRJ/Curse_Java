@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Somar_Arrays {
-}
