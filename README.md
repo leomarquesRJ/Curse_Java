@@ -1,7 +1,5 @@
 # 📚 Curso Java – Repositório de Estudos
 
-> Repositório organizado com exercícios, práticas e mini projetos desenvolvidos durante meu aprendizado em **Java**, seguindo boas práticas e padrão profissional.
-
 Bem-vindo ao **curse_java**, meu repositório oficial de estudos, exercícios e mini-projetos desenvolvidos durante minha jornada de aprendizado na linguagem **Java**.
 
 Este repositório foi criado para organizar meus códigos, acompanhar minha evolução e aplicar boas práticas de programação. Sinta-se à vontade para explorar, estudar ou sugerir melhorias!
