@@ -1,0 +1,31 @@
+package entities;
+
+public class People {
+	private String name;
+	private int age;
+	private double height;
+
+	
+	// Constructor
+	public People(String name, int age, double height) {
+		this.name = name;
+		this.age = age;
+		this.height = height;
+	}
+	// Getters
+	public String getName() {
+		return name;
+	}
+	public int getAge() {
+		return age;
+	}
+	public double getHeight() {
+		return height;
+	}
+
+	
+	
+	
+	
+
+}
