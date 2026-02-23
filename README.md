@@ -103,7 +103,7 @@ curse_java/
 ## 🔧 Tecnologias Utilizadas
 
 * **Java 17+**
-* **VS Code / Eclipse*
+* **VS Code / Eclipse / Notepad++*
 * **Git & GitHub**
 
 ---
